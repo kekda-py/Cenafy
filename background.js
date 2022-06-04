@@ -16,7 +16,7 @@ function cenafy() {
   }, DELAY_IN_MS);
 }
 
-const chance = Math.floor(Math.random() * 100);
-if (chance === 69) {
+const chance = Math.floor(Math.random() * 10);
+if (chance === 1) {
   cenafy();
 }
